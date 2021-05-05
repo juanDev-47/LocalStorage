@@ -1,0 +1,8 @@
+// variables 
+
+
+//eventListeners
+
+
+
+//funciones 
